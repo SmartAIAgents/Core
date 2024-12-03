@@ -1,6 +1,6 @@
 # Open Source Software Tool Kit
 
-## List of Open Source Tools & Applications For the Smart Agent to Integrate with. Live versin being edited / updated.
+## List of Open Source Tools & Applications For the Smart Agent to Integrate with. Live version being edited / updated.
 https://docs.google.com/spreadsheets/d/10vrWf7lEbCX-i5JISSzAjArm5GnUrVUoFqr4xf99Jyg/edit?usp=sharing
 
 - Brave Browser	https://brave.com/download/	Private Ad Free Browser
@@ -23,7 +23,7 @@ https://docs.google.com/spreadsheets/d/10vrWf7lEbCX-i5JISSzAjArm5GnUrVUoFqr4xf99
 - Filecoin	https://filecoin.io/	Decentralized cloud for storing files
 - Trezor	https://trezor.io/	Hardware wallet for storing crypto offline
 - Ledger	https://www.ledger.com/	Hardware wallet for storing crypto offline
-- Tor Onion Router	https://www.torproject.org/	Private web browswer for high security
+- Tor Onion Router	https://www.torproject.org/	Private web browser for high security
 - Torrents	https://github.com/transmission/transmission	File sharing client that you can use on desktop or mobile
 - BitTorrent Protocol	https://en.wikipedia.org/wiki/BitTorrent	Protocol for peer to peer file sharing
 - Linux 	https://ubuntu.com/download/desktop	Open source operating system for your computer
